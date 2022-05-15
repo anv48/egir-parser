@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "loadPage": "node ./main.js"
+    "egir": "node ./egir.js",
+    "ebirdsEurope": "node ./ebirdsEurope.js"
   },
   "author": "",
   "license": "ISC",

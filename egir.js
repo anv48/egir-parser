@@ -53,7 +53,7 @@ async function saveToFile(fileName){
       });
 }
 
-saveToFile("allBirds.json")
+saveToFile("egir.json")
 
 
 
